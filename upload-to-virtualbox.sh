@@ -1,4 +1,4 @@
 #!/bin/bash  -xu
 
-cp  -pv  HariboteOS.img  /cygdrive/m/VirtualMachine/VirtualBox/HariboteOS/
+cp  -pv  Haribote.img  /cygdrive/m/VirtualMachine/VirtualBox/HariboteOS/
 
